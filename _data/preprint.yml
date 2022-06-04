@@ -1,7 +1,7 @@
 - authors: authors
   title: title
-  venue: venue
+  # venue: venue
+  volpge: volume and pages
   year: year
   url: url
   misc: miscs
-    

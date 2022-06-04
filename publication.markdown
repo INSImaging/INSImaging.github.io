@@ -11,7 +11,7 @@ description: Journal papers, Conference proceedings
 #### Preprints 
 
 <ol reversed="reversed" id="pub">  <!-- start="26"> -->
-  {% for item in site.data.pub_journal.toc[0].papers %}
+  {% for item in site.data.preprint %}
       <li>
 		{{ item.authors }}: 
         <a href="{{ item.url }}">{{ item.title }}</a> {% if item.venue %} , {{ item.venue }}. {% endif %} {% if item.misc %} ({{ item.misc }}) {% endif %}
@@ -21,23 +21,23 @@ description: Journal papers, Conference proceedings
 
 
 
-#### Journal papers 
+#### Year 2022
 
 <ol reversed="reversed" id="pub">  <!-- start="19"> -->
-{% for item in site.data.pub_journal.toc[1].papers %}
+{% for item in site.data.year_2022 %}
     <li>
-	  {{ item.authors }},  <a href="{{ item.url }}">{{ item.title }}</a>: <i>{{ item.venue }}</i>, {{ item.year }}. {% if item.misc %} ({{ item.misc }}) {% endif %}
+	  {{ item.authors }},  <a href="{{ item.url }}">{{ item.title }}</a>: <i>{{ item.venue }}</i>, {{ item.volpge }}, {{ item.year }}. {% if item.misc %} ({{ item.misc }}) {% endif %}
     </li>
 {% endfor %}
 </ol>
 
 
-#### Conference proceedings
+#### Year 2021
 
 <ol reversed id="pub">
-{% for item in site.data.pub_conference %}
+{% for item in site.data.year_2021 %}
     <li>
-      {{ item.authors }}, <a href="{{ item.url }}">{{ item.title }}</a> : <b><i>{{ item.venue }}</i></b>, {{ item.year }}. {% if item.misc %} ({{ item.misc }}) {% endif %}
+      {{ item.authors }}, <a href="{{ item.url }}">{{ item.title }}</a> : <b><i>{{ item.venue }}</i></b>, {{ item.volpge }}, {{ item.year }}. {% if item.misc %} ({{ item.misc }}) {% endif %}
     </li>
 {% endfor %}
 </ol>
