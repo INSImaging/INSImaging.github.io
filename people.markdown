@@ -41,25 +41,25 @@ description: "Welcome to our group-page"
 ### PhD students
 
 
- <table style="width: 90%;">
+ <table style="width: 45%;">
   <tr>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
+    <!-- <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
-    <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
-    <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
+    <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th> -->
   </tr>
   <tr>
     <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
+    <!-- <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
-    <td class="namecell">Firstname Lastname</td>
-    <td class="namecell">Firstname Lastname</td>
+    <td class="namecell">Firstname Lastname</td> -->
   </tr>
   <!--  -->
-    <tr>
+    <!-- <tr>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
@@ -74,31 +74,31 @@ description: "Welcome to our group-page"
     <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
-  </tr>
+  </tr> -->
 </table> 
 
 
 ### Master Students
 
-<table style="width: 90%;">
+<table style="width: 45%;">
   <tr>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
+    <!-- <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
-    <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
-    <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
+    <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th> -->
   </tr>
   <tr>
     <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
+    <!-- <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
-    <td class="namecell">Firstname Lastname</td>
-    <td class="namecell">Firstname Lastname</td>
+    <td class="namecell">Firstname Lastname</td> -->
   </tr>
   <!--  -->
-    <tr>
+    <!-- <tr>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
     <th style="width:15%" class="imgcell"><img src="assets/emptyphoto.png" /></th>
@@ -112,8 +112,8 @@ description: "Welcome to our group-page"
     <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
     <td class="namecell">Firstname Lastname</td>
-    <td class="namecell">Firstname Lastname</td>
-  </tr>
+    <td class="namecell">Firstname Lastname</td> -->
+  <!-- </tr> -->
 </table> 
 
 ### Previous students
