@@ -22,7 +22,7 @@ title: INS Imaging Group
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Webpage of INS Imaging Group
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://ins.sjtu.edu.cn/research-group/mids/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
