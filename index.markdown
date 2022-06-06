@@ -4,11 +4,9 @@ title: "INS Imaging Group"
 description: "Welcome to our group-page"
 ---
 
-
 <p><img class="aligncenter wp-image-754"  src="assets/images/team1.jpg" alt="group"  width="750"  hspace="20" vspace="20"/></p>
 
 The Ins Math Imaging Group (IMI) is specializing in the mathematics of medical image processing using variational methods and deep learning technique. Our research ranges from the modelling and analysis of such methods to their computational realisation and application. In particular, we are interested in
-
 
 
 <ul>
@@ -19,7 +17,6 @@ The Ins Math Imaging Group (IMI) is specializing in the mathematics of medical i
 <li><em>Machine learning, in particular deep learning and graphical models </em></li>
 <li><em>Optimization</em></li>
 </ul>
-
 
 
 
